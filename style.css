@@ -29,7 +29,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 		-moz-transition: all .3s ease-in;
 		-o-transition: all .3s ease-in;
 		-ms-transition: all .3s ease-in;
-		font-size: 13px;
+		font-size: 14px;
 		transition: all .3s ease-in;
 	}
 	
@@ -166,7 +166,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 	}
 	
 	.subDetails {
-		font-size: 13px;
+		font-size: 12px;
 		font-style: italic;
 		margin-bottom: 3px;
 	}
